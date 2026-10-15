@@ -20,6 +20,22 @@ Proyecto académico orientado al reconocimiento de medicamentos mediante tecnolo
 ## Objetivo profesional
 Busco una oportunidad laboral para aplicar mis conocimientos técnicos, adquirir experiencia y seguir desarrollándome profesionalmente.
 
+## Proyectos destacados
+
+### 1. Sistema de medición de distancia
+Proyecto de electrónica con sensor ultrasónico y Arduino para medir distancias. Incluye el montaje del circuito, el programa y las pruebas realizadas.
+
+**Tecnologías:** Arduino, sensor ultrasónico y componentes electrónicos.
+
+[Ver repositorio de medición de distancia](https://github.com/diegort17/Medici-n-de-Distancia)
+
+### 2. Cubo LED 5×5×5
+Proyecto de electrónica digital que utiliza una matriz tridimensional de 125 LED y programación para crear diferentes patrones de iluminación.
+
+**Tecnologías:** Arduino, LED, circuitos electrónicos y programación C/C++.
+
+[Ver repositorio del cubo LED](https://github.com/diegort17/Cubo_Led_5x5x5)
+
 ## Contacto
 - Correo: diegomauriciotrocoli@gmail.com
 - Ubicación: Suchitepéquez, Guatemala
