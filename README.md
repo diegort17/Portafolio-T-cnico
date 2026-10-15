@@ -36,6 +36,14 @@ Proyecto de electrónica digital que utiliza una matriz tridimensional de 125 LE
 
 [Ver repositorio del cubo LED](https://github.com/diegort17/Cubo_Led_5x5x5)
 
+### 3. Reconocedor de medicamentos con ESP32 e inteligencia artificial
+Proyecto académico orientado al reconocimiento de medicamentos mediante un sistema basado en ESP32 e inteligencia artificial.
+
+- **Tecnologías:** ESP32 e inteligencia artificial.
+- **Desarrollo:** conexiones electrónicas, programación, base de datos, pruebas y documentación.
+- **Evidencias:** documentación y fotografías del proyecto.
+
+[Ver proyecto y documentación](https://github.com/diegort17/RECONOCIMIENTO-DE-MEDICINAS)
 ## Contacto
 - Correo: diegomauriciotrocoli@gmail.com
 - Ubicación: Suchitepéquez, Guatemala
